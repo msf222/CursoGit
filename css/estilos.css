@@ -1,5 +1,5 @@
-#chartset "utf-8",
+@charset "utf-8";
 /* CSS Document */
 body{
-    backgraund-color: coral;
+    background-color: coral;
 }
